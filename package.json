@@ -1,0 +1,15 @@
+{
+  "name": "cwp-35",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.0",
+    "mysql2": "^1.6.5",
+    "sequelize": "^5.8.6"
+  }
+}
